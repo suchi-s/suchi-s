@@ -10,22 +10,22 @@
 
 const suchi {
     pronouns: "She" | "Her",
-    code: ["Javascript", "Python", "CSS", "HTMl"],
+    code: ["Javascript", "PHP",""WORDPRESS, "CSS", "HTMl"],
     technologies: 
       
         frontEnd: {
-            js: ["React","D3"],
-            css: ["materialize","bootstrap"]
+            js: ["React"],
+            css: ["bootstrap"]
         },
         backEnd: {
             js: ["node", "express"],
           
         },
-        devOps: ["Netlify", "Heroku",],
-        databases: ["mongo","Firebase/FireStore",],
+  
+        databases: ["Mysql"],
        
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: [ "Progressive web applications", "Single page applications"],
    
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
