@@ -10,7 +10,7 @@
 ```javascript
 const suchi ={
  pronouns: "She" | "Her", 
- code: ["Javascript", "PHP",""WORDPRESS, "CSS", "HTMl"], 
+ code: ["Javascript", "PHP","WORDPRESS", "CSS", "HTMl"], 
  technologies:{
 
     frontEnd: {
