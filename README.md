@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm SuchismitaJena! </h2>
 <img align='right' src="https://thumbs.dreamstime.com/b/woman-laptop-studying-working-concept-table-books-lamp-coffee-cup-vector-illustration-flat-style-154613128.jpg" width="230">
-<p><em>Associate Web Devloper at <a href="https://smithksolutions.com/" target="_blank">Clover Bay Technologies Private Limited</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Associate Web Devloper at <a href="https://smithksolutions.com/" target="_blank">Smithk Solutions Technologies Private Limited</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 👇 Hit in your console or terminal to connect with me.
