@@ -37,16 +37,3 @@ funFact: "There are two ways to write error-free programs; only the third one wo
 
 
 ```
-### 💻 Portfolio/ My Work
-<!-- PORTFOLIO-LIST:START -->
-<a href="http://github.com/vikalp2502/Web-Design-Portfolio"><img align="left" width="160px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p1.png" /></a>
-<a href="http://github.com/vikalp2502/AlgoSort-Sorting-Visualiser"><img align="left" width="160px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p2.png" /></a>
-<a href="http://github.com/vikalp2502/Shoes-Nike-Landing-Page"><img align="left" width="160px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p3.png" /></a>
-<a href="http://github.com/vikalp2502/PathFinding-Visualizer"><img align="left" width="160px"  src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p4.png" /></a>
-<a href="http://github.com/vikalp2502/CODM-landing_page"><img align="left" width="160px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/p5.png" />
-</a>
-<a href="http://github.com/vikalp2502/Tribute-to-msd"><img align="left" width="160px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/f7.png" />
-</a>
-<a href="http://github.com/vikalp2502/portfolio-landing-page"><img align="left" width="160px" src="https://github.com/Vikalp2502/Vikalp2502/blob/master/Portfolio-img/project5.png" />
-</a>
-<!-- PORTFOLIO-LIST:END -->
